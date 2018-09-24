@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Academy Cafe</string>
+    <string name="floor_up">FLOOR UP</string>
+    <string name="floor_down">FLOOR DOWN</string>
+    <string name="exit">EXIT</string>
+    <string name="marker_on">Marker on Academy Cafe,floor:</string>
+</resources>
